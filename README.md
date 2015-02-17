@@ -1,2 +1,2 @@
-# investor-analyzers
-Investor Analyzers Georgetown Data Analytics Capstone Project
+# investment-analyzers
+Investment Analyzers Georgetown Data Analytics Capstone Project
